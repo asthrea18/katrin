@@ -1,6 +1,6 @@
 Eshop template with documentation
 
-
+dbname=katrindb
 sample account
 
 user:admin
