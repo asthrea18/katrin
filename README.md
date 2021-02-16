@@ -10,7 +10,6 @@ user:sadmin
 pass:sadmin
 
 
-update:
+update:<br>
 login account with authentication<br>
-products with seed(model/controller creatin)<br>
-all tables have soft deletes<br>
+products with seed(model/controller creatin all tables have soft deletes<br>
