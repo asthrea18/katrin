@@ -1,4 +1,5 @@
-Migrate With Seed
+Eshop template with documentation
+
 
 sample account
 
@@ -7,3 +8,8 @@ pass:admin
 
 user:sadmin
 pass:sadmin
+
+
+update:
+login account with authentication
+products with seed(model/controller creatin)
