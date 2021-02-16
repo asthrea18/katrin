@@ -11,5 +11,6 @@ pass:sadmin
 
 
 update:
-login account with authentication
-products with seed(model/controller creatin)
+login account with authentication<br>
+products with seed(model/controller creatin)<br>
+all tables have soft deletes<br>
